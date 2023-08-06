@@ -1,4 +1,4 @@
-[### Hi there 👋
+
 
 <!--
 My friends, love is better than anger. Hope is better than fear. Optimism is better than despair. So let us be loving, hopeful and optimistic.
@@ -125,4 +125,4 @@ You can find detailed descriptions of my projects in the [Project.md](https://gi
 
 
 
-](https://github.com/Harsh-Gupta9897/Resume/edit/main/README.md)
+
