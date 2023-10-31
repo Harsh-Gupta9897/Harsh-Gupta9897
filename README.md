@@ -50,11 +50,11 @@ You can find detailed descriptions of my projects in the [Project.md](https://gi
 
 | Computer Vision                                      | NLP/LLM                                       | Data Analytics                            | Traditional ML                      |
 |------------------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------|   
-| VQVAE as Defense Against Adversarial Attacks         | PrivaLLM & DataGenLLM (OpenSource LLM, QLoRa) | Community Detection (Spectral Clustering)| Naive Bayes Implementation           |
-| Person Image Synthesis (Cloth Virtual Try ON)        | PrivaGPT (AI Governance Model for LLMs)       | Color Blindness (BWT Algorithm)          | Classification Module(Multiclass SVM)|
-| Human Motion Diffusion Model (Based on Keypoints)    | Text Based Classification (BERT-Based Encoder)| Covid19 Modelling based on CLT & LLN     | Regression and PCA                   |
-| DCGAN with ADAIN and ViT Implementation from Scratch | Sentiment Analysis(RNN/LSTM) & Word Embeddings| Recommendation System                    | CLustering(KMeans,Spectral Clustering)|
-| Metrics Analysis (CLIP, SWAV,IS) based FIDs          |                                               | Duckworth Lewis Method Implementation    |                                      |
+| VQVAE as Defense Against Adversarial Attacks         | RAG with Chain-of-thought Prompting in LLMs | Community Detection (Spectral Clustering)| Naive Bayes Implementation           |
+| Person Image Synthesis (Cloth Virtual Try ON)        | PrivaLLM & DataGenLLM (OpenSource LLM, QLoRa) | Color Blindness (BWT Algorithm)          | Classification Module(Multiclass SVM)|
+| Human Motion Diffusion Model (Based on Keypoints)    | PrivaGPT (AI Governance Model for LLMs)| Covid19 Modelling based on CLT & LLN     | Regression and PCA                   |
+| DCGAN with ADAIN and ViT Implementation from Scratch | Text Based Classification (BERT-Based Encoder)| Recommendation System                    | CLustering(KMeans,Spectral Clustering)|
+| Metrics Analysis (CLIP, SWAV,IS) based FIDs          |Sentiment Analysis(RNN/LSTM) & Word Embeddings| Duckworth Lewis Method Implementation    |                                      |
 
 ### SDE Projects
 |               Title                                    | Date             |
