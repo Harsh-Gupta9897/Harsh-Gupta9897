@@ -19,7 +19,7 @@ You can connect with me on LinkedIn, follow my Medium blog, check out my GitHub 
 
 ## :page_facing_up: Resume
 
-[![PDF](https://drive.google.com/file/d/1epogkQwsucvdLOdxWWLvGXXgpbhlriT4/view?usp=drive_link)
+[![PDF](https://img.shields.io/badge/-Resume-red?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white&link=https://drive.google.com/file/d/1gbnb9xGEj1zcNXhHNQFArvU0Dh04DnLD/view?usp=sharing)](https://drive.google.com/file/d/1fZHPqYdlf5mK2hB1bWxsl0GCSJssh_D6/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/Harsh-Gupta9897/Resume)](https://github.com/Harsh-Gupta9897)
 
 
